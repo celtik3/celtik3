@@ -3,6 +3,7 @@
 ## Furkan Enes Celtik
 
 Graduate Student in Artificial Intelligence at NJIT | Passionate About ML, Exploring NLP | Aspiring AI/ML Engineer
+
 enesceltik3@gmail.com | [LinkedIn](https://www.linkedin.com/in/furkan-enes-celtik/)
 
 ---
