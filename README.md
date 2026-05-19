@@ -21,15 +21,17 @@ I'm a graduate student with a strong foundation in **Artificial Intelligence**, 
 - Parsed and chunked 350+ top-cited arXiv CS papers with `pymupdf4llm` and embedded them using transformer models.
 - Supported toggleable chat history and Gemini vs. custom RAG responses via user-facing API.
 
+#### Guess The Baller: A Game for MLOps
+• Trained an MLP to learn player embeddings from football data (2K players) via position prediction (>99% accuracy).
+• Deployed a FastAPI inference service for similarity search via cosine similarity, enabling interactive gameplay (p95 ∼ 15 ms).
+• Explored LLM-hosted interface translating natural language inputs into embedding-based similarity queries (experimental).
+
 #### Sentiment Analysis - Text Classification
 - Complete NLP pipeline using `NLTK`, `Word2Vec`, and models like **Logistic Regression** and **LSTM**.
 - Conducted feature engineering, preprocessing, and evaluation using standard ML practices.
 
 #### Stock Market Prediction
 - Implemented a hybrid model combining **LSTM** and **A*** to optimize low-volatility, high-return stock picks.
-
-#### Full-Stack Web App – “Kickey”
-- Built from scratch using **PHP**, **MySQL**, **HTML/CSS**, hosted on **XAMPP**, including a 3NF database and ER diagram.
 
 ---
 
