@@ -2,7 +2,7 @@
 
 ## Furkan Enes Celtik
 
-Graduate Student in Artificial Intelligence at NJIT | Passionate About ML, Exploring NLP | Aspiring AI/ML Engineer
+M.S. in Artificial Intelligence | Machine Learning Engineer | NLP, LLM, and Applied AI Systems
 
 enesceltik3@gmail.com | [LinkedIn](https://www.linkedin.com/in/furkan-enes-celtik/)
 
@@ -10,7 +10,7 @@ enesceltik3@gmail.com | [LinkedIn](https://www.linkedin.com/in/furkan-enes-celti
 
 ### About Me
 
-I'm a graduate student with a strong foundation in **Artificial Intelligence**, passionate about building intelligent systems that bridge data, logic, and impactful applications. My experience spans **machine learning**, **natural language processing**, **data analysis**, and **full-stack development**. I’ve worked on projects ranging from a **retrieval-augmented generation (RAG) pipeline for scientific QA** to **stock market prediction** and **web app development**.
+I recently completed my M.S. in Artificial Intelligence with a strong focus on NLP systems and machine learning engineering. I enjoy building end-to-end solutions that turn messy, unstructured data into reliable and useful applications. My experience includes working on **retrieval-augmented generation systems**, **data pipelines**, and **large-scale processing workflows**. I am especially interested in designing systems that are not only accurate but also practical, easy to evaluate, and simple to iterate on. I am also excited about the intersection of language and real-world applications, as I like building tools that help people make decisions, find information, and automate complex tasks.
 
 ---
 
